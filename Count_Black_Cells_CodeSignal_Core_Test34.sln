@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Black_Cells_CodeSignal_Core_Test34", "Count_Black_Cells_CodeSignal_Core_Test34\Count_Black_Cells_CodeSignal_Core_Test34.csproj", "{0D688BE6-420D-4F54-A914-A3075A4E8E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D688BE6-420D-4F54-A914-A3075A4E8E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D688BE6-420D-4F54-A914-A3075A4E8E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D688BE6-420D-4F54-A914-A3075A4E8E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D688BE6-420D-4F54-A914-A3075A4E8E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F970C3-42C7-47BC-8D6B-77FF2091B8F8}
+	EndGlobalSection
+EndGlobal
